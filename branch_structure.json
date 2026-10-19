@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-431-feat-ui-paginate-a-wallet-s-markets-on-the",
+    "feat/issue-465-feat-ui-let-pendingmirrors-open-the-pre-filled",
+    "fix/issue-362-docs-ui-translate-the-spanish-doc-comment-in",
+    "fix/issue-438-test-agents-cover-persona-runner-skip-reasons",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-431-feat-ui-paginate-a-wallet-s-markets-on-the": "main",
+    "feat/issue-465-feat-ui-let-pendingmirrors-open-the-pre-filled": "main",
+    "fix/issue-362-docs-ui-translate-the-spanish-doc-comment-in": "main",
+    "fix/issue-438-test-agents-cover-persona-runner-skip-reasons": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-431-feat-ui-paginate-a-wallet-s-markets-on-the",
+    "feat/issue-465-feat-ui-let-pendingmirrors-open-the-pre-filled",
+    "fix/issue-362-docs-ui-translate-the-spanish-doc-comment-in",
+    "fix/issue-438-test-agents-cover-persona-runner-skip-reasons",
+    "origin"
+  ]
+}
